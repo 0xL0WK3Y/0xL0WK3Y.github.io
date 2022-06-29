@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Georgios Rellias</title>
+    <link>https://0xl0wk3y.github.io/</link>
+    <description>Recent content on Georgios Rellias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://0xl0wk3y.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://0xl0wk3y.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xl0wk3y.github.io/about/</guid>
+      <description>About General I am a 20 year old university student currently living in Lamia, Greece and traveling around the world! Recently returned from the beautiful city of Vilnius, Lithuania!
+Education I am an undergraduate student at the University of Thessaly, studying Biomedical Informatics and I also hold a Software Engineering diploma. I also have experience in teaching computer science to highschool students.
+Cybersecurity Huge Cybersecurity enthusiast with a lot of love for Reverse Engineering, PWN and Cryptography.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://0xl0wk3y.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xl0wk3y.github.io/contact/</guid>
+      <description> Contact Me Feel free to contact me for anything you need! I&amp;rsquo;d be happy to help with any questions or to just chat.
+Email For academic inquiries: grellias@uth.gr For everything else: grrellias@protonmail.com Linkedin My Linkedin Page Instagram My public Instagram Page @georgerellias Twitter My Twitter @RRellias </description>
+    </item>
+    
+  </channel>
+</rss>
